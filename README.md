@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ghanshyam
-- 👀 I’m interested in Full Stack Development
+- 👀 I love coding
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on Exciting projects
 - 📫 How to reach me ghanshyam2523@gmail.com
