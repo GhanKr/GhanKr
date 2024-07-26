@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghanshyam
 - 👀 I love coding
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Front End Development and Actively Working on Back end with ASP.NET Core 6
 - 💞️ I’m looking to collaborate on Exciting projects
 - 📫 How to reach me ghanshyam2523@gmail.com
 
